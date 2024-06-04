@@ -1,0 +1,4 @@
+patente: BBCL34
+edad cliente: 25
+fecha venta: 01102020
+nombre venta: bbcl34111111111

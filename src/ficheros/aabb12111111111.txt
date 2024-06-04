@@ -1,0 +1,4 @@
+patente: AABB12
+edad cliente: 25
+fecha venta: 01102020
+nombre venta: aabb12111111111

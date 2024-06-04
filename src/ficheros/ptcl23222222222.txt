@@ -1,0 +1,4 @@
+patente: PTCL23
+edad cliente: 45
+fecha venta: 03062024
+nombre venta: ptcl23222222222
